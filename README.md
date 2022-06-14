@@ -26,3 +26,15 @@
     ## level_id (foreign key)
     ## is_open?
     ## car_id (foreign key), allow null 
+
+# Car 
+    ## current_customer 
+    ## license_plate
+    ## spot_id, allow null
+    ## ticket_id, allow null 
+
+# Ticket 
+    ## fee 
+    ## entered_at 
+    ## left_at
+    ## car_id
