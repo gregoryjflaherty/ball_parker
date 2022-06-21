@@ -38,3 +38,11 @@
     ## entered_at 
     ## left_at
     ## car_id
+    
+    
+    
+ ### METHODS 
+    ## closest parking space 
+    ## parked over 4 hours (full day rate)
+    ## handicapped spots 
+    
