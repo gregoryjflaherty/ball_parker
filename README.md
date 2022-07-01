@@ -45,4 +45,6 @@
     ## closest parking space 
     ## parked over 4 hours (full day rate)
     ## handicapped spots 
-    
+    ## Empty all day 
+    ## reserved spots
+    ## 
