@@ -1,3 +1,9 @@
+
+![Parking Lot 1](https://user-images.githubusercontent.com/87443686/177008906-06483c25-8022-4ec1-827b-a41af26cc0f2.png)
+
+
+
+
 # README
 
 ### Parking Lot
