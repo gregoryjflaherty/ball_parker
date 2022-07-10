@@ -1,6 +1,6 @@
 
 PARKING API - https://platform.here.com <br>
-EVENTS - https://skybox.vividseats.com/login
+EVENTS - https://developer-acct.ticketmaster.com/user/login?destination=user
 
  # Tables 
  
@@ -11,6 +11,7 @@ EVENTS - https://skybox.vividseats.com/login
  Venues
   - coordinates
 
+ 
 
 
 
