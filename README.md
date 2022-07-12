@@ -11,7 +11,9 @@ EVENTS - https://developer-acct.ticketmaster.com/user/login?destination=user
  Venues
   - coordinates
 
- 
+FavoriteSpot
+user.id 
+coordinates
 
 
 
